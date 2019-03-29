@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Logoff Coherense</description>
-   <name>Logoff Coherense - Test</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>8fd10ae2-1fc6-4496-9e5a-9e90f3d2eec0</testCaseGuid>
-</TestCaseEntity>
