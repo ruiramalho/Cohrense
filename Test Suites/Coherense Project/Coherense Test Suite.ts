@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
-   <description>ADT calibration suite</description>
-   <name>ADT calibration suite</name>
+   <description></description>
+   <name>Coherense Test Suite</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -9,11 +9,11 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <testSuiteGuid>cbfd42a1-e825-45da-96be-9a6dbcba4980</testSuiteGuid>
+   <testSuiteGuid>2a22f0c9-95eb-4bc1-9242-c135c8b868b3</testSuiteGuid>
    <testCaseLink>
-      <guid>d563e066-7627-40e4-92d8-f3c5c8a41e6c</guid>
+      <guid>7b8fc0b2-be27-48c9-adf8-a52dd6b9da75</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Logo Seguros</testCaseId>
+      <testCaseId>Test Cases/Login Coherense</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

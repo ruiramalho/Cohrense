@@ -41,7 +41,7 @@ WebUI.click(findTestObject('Object Repository/Page_LOGO SADE/label_Nome completo
 
 WebUI.setText(findTestObject('Object Repository/Page_LOGO SADE/input_Cdigo de campanha_beancontratovalesDesconto'), '')
 
-WebUI.setText(findTestObject('Object Repository/Page_LOGO SADE/input__beancontratotomadorSeguronome'), 'Rui Ramalho')
+WebUI.setText(findTestObject('Object Repository/Page_LOGO SADE/input__beancontratotomadorSeguronome'), name)
 
 WebUI.setText(findTestObject('Object Repository/Page_LOGO SADE/input__beancontratotomadorSegurotelefonePrincipal'), '960000000')
 
