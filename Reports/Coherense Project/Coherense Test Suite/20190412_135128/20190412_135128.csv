@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Coherense Test Suite,Chrome 73.0.3683.103,,2019-04-12 13:51:42,2019-04-12 13:54:37,"2m - 54,240s",FAILED
+,,,,,,
+Test Cases/Login Coherense,Chrome 73.0.3683.103,Login Coherense,2019-04-12 13:51:43,2019-04-12 13:53:44,"2m - 1,650s",FAILED
+"openBrowser("""")",Chrome 73.0.3683.103,,2019-04-12 13:51:44,2019-04-12 13:51:51,"6,965s",PASSED
+"navigateToUrl(""http://10.12.67.34:8080/login"")",Chrome 73.0.3683.103,,2019-04-12 13:51:51,2019-04-12 13:52:12,"21,394s",PASSED
+"setText(findTestObject(""Object Repository/Coherense Repository/Page_CoherenSE Login/input_Username_username""), ""Leader"")",Chrome 73.0.3683.103,,2019-04-12 13:52:12,2019-04-12 13:53:44,"1m - 32,018s",FAILED
+,,,,,,
+Test Cases/Logoff Coherense,Chrome 73.0.3683.103,Logoff Coherense,2019-04-12 13:53:44,2019-04-12 13:54:11,"26,620s",PASSED
+"openBrowser(""http://10.12.67.34:8080/login"")",Chrome 73.0.3683.103,,2019-04-12 13:53:45,2019-04-12 13:54:10,"25,364s",PASSED
+closeBrowser(),Chrome 73.0.3683.103,,2019-04-12 13:54:10,2019-04-12 13:54:11,"0,663s",PASSED
+,,,,,,
+Test Cases/Logoff Coherense,Chrome 73.0.3683.103,Logoff Coherense,2019-04-12 13:54:11,2019-04-12 13:54:36,"25,399s",PASSED
+"openBrowser(""http://10.12.67.34:8080/login"")",Chrome 73.0.3683.103,,2019-04-12 13:54:11,2019-04-12 13:54:36,"24,656s",PASSED
+closeBrowser(),Chrome 73.0.3683.103,,2019-04-12 13:54:36,2019-04-12 13:54:36,"0,697s",PASSED
