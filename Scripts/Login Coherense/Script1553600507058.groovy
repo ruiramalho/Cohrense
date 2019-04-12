@@ -15,7 +15,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://10.12.67.34:8080/login')
+WebUI.navigateToUrl('http://127.0.0.1:8080/login')
 
 WebUI.setText(findTestObject('Object Repository/Coherense Repository/Page_CoherenSE Login/input_Username_username'), 'Leader')
 
