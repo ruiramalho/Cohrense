@@ -11,7 +11,7 @@
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <testSuiteGuid>cbfd42a1-e825-45da-96be-9a6dbcba4980</testSuiteGuid>
    <testCaseLink>
-      <guid>d563e066-7627-40e4-92d8-f3c5c8a41e6c</guid>
+      <guid>cf02d016-31a2-464f-bcc9-621ee6abf1de</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Logo Seguros</testCaseId>
