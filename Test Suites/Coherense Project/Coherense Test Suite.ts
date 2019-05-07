@@ -28,4 +28,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Logoff Coherense</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>0b97b4ec-00ee-4e03-a778-b374599ad32b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Logoff Coherense</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
