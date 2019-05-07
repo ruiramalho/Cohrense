@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+ADT calibration suite,Firefox 66.0,ADT calibration suite,2019-04-15 10:27:35,2019-04-15 10:28:22,"46,129s",FAILED
+,,,,,,
+Test Cases/Logo Seguros,Firefox 66.0,,2019-04-15 10:27:36,2019-04-15 10:28:21,"44,715s",FAILED
+"openBrowser("""")",Firefox 66.0,,2019-04-15 10:27:36,2019-04-15 10:27:42,"5,769s",PASSED
+"navigateToUrl(""https://www.logo.pt/"")",Firefox 66.0,,2019-04-15 10:27:42,2019-04-15 10:27:44,"2,172s",PASSED
+"click(findTestObject(""Object Repository/Logo Repository/Page_Seguro Automvel Casa e Sade - Seguros LOGO/div_SIMULAR""))",Firefox 66.0,,2019-04-15 10:27:44,2019-04-15 10:27:45,"0,396s",PASSED
+"click(findTestObject(""Object Repository/Logo Repository/Page_Seguro Automvel Casa e Sade - Seguros LOGO/span_SIMULAR SADE""))",Firefox 66.0,,2019-04-15 10:27:45,2019-04-15 10:27:47,"1,902s",PASSED
+"click(findTestObject(""Object Repository/Logo Repository/Page_LOGO SADE/a_""))",Firefox 66.0,,2019-04-15 10:27:47,2019-04-15 10:27:47,"0,435s",PASSED
+"click(findTestObject(""Object Repository/Logo Repository/Page_LOGO SADE/input__beannestedcontratopessoasSeguras0sexo""))",Firefox 66.0,,2019-04-15 10:27:47,2019-04-15 10:27:47,"0,282s",PASSED
+"setText(findTestObject(""Object Repository/Logo Repository/Page_LOGO SADE/input__beannestedcontratopessoasSeguras0idade""), ""40"")",Firefox 66.0,,2019-04-15 10:27:47,2019-04-15 10:27:47,"0,086s",PASSED
+"click(findTestObject(""Object Repository/Logo Repository/Page_LOGO SADE/input_Masculino_beannestedcontratopessoasSeguras1sexo""))",Firefox 66.0,,2019-04-15 10:27:47,2019-04-15 10:27:48,"0,294s",PASSED
+"setText(findTestObject(""Object Repository/Logo Repository/Page_LOGO SADE/input__beannestedcontratopessoasSeguras1idade""), ""14"")",Firefox 66.0,,2019-04-15 10:27:48,2019-04-15 10:27:48,"0,063s",PASSED
+"click(findTestObject(""Object Repository/Logo Repository/Page_LOGO SADE/input_Indique o parentesco de cada Pessoa Segura com o Tomador de Seguro_continuar""))",Firefox 66.0,,2019-04-15 10:27:48,2019-04-15 10:27:49,"1,677s",PASSED
+"click(findTestObject(""Object Repository/Logo Repository/Page_LOGO SADE/input_Insira os cdigos de oferta separados por ponto e vrgula_continuar""))",Firefox 66.0,,2019-04-15 10:27:49,2019-04-15 10:27:50,"0,420s",PASSED
+"click(findTestObject(""Object Repository/Logo Repository/Page_LOGO SADE/input__check_capital_A0__1__DOIND__INTER__""))",Firefox 66.0,,2019-04-15 10:27:50,2019-04-15 10:28:20,"30,588s",FAILED

@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+ADT calibration suite,Firefox 66.0,ADT calibration suite,2019-04-15 09:30:45,2019-04-15 09:31:36,"50,803s",FAILED
+,,,,,,
+Test Cases/Logo Seguros,Firefox 66.0,Logo Seguros,2019-04-15 09:30:45,2019-04-15 09:31:34,"49,132s",FAILED
+"openBrowser("""")",Firefox 66.0,,2019-04-15 09:30:46,2019-04-15 09:30:54,"7,746s",PASSED
+"navigateToUrl(""https://www.logo.pt/"")",Firefox 66.0,,2019-04-15 09:30:54,2019-04-15 09:30:56,"2,601s",PASSED
+"click(findTestObject(""Object Repository/Page_Seguro Automvel Casa e Sade - Seguros LOGO/div_SIMULAR""))",Firefox 66.0,,2019-04-15 09:30:56,2019-04-15 09:30:57,"0,475s",PASSED
+"click(findTestObject(""Object Repository/Page_Seguro Automvel Casa e Sade - Seguros LOGO/span_SIMULAR SADE""))",Firefox 66.0,,2019-04-15 09:30:57,2019-04-15 09:30:59,"2,142s",PASSED
+"click(findTestObject(""Object Repository/Page_LOGO SADE/a_""))",Firefox 66.0,,2019-04-15 09:30:59,2019-04-15 09:30:59,"0,465s",PASSED
+"click(findTestObject(""Object Repository/Page_LOGO SADE/input__beannestedcontratopessoasSeguras0sexo""))",Firefox 66.0,,2019-04-15 09:30:59,2019-04-15 09:31:00,"0,332s",PASSED
+"setText(findTestObject(""Object Repository/Page_LOGO SADE/input__beannestedcontratopessoasSeguras0idade""), ""30"")",Firefox 66.0,,2019-04-15 09:31:00,2019-04-15 09:31:00,"0,119s",PASSED
+"click(findTestObject(""Object Repository/Page_LOGO SADE/input_Masculino_beannestedcontratopessoasSeguras1sexo""))",Firefox 66.0,,2019-04-15 09:31:00,2019-04-15 09:31:00,"0,406s",PASSED
+"setText(findTestObject(""Object Repository/Page_LOGO SADE/input__beannestedcontratopessoasSeguras1idade""), ""28"")",Firefox 66.0,,2019-04-15 09:31:00,2019-04-15 09:31:00,"0,092s",PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_LOGO SADE/select_CONJUGEFILHO""), ""2"", true)",Firefox 66.0,,2019-04-15 09:31:00,2019-04-15 09:31:01,"0,496s",PASSED
+"click(findTestObject(""Object Repository/Page_LOGO SADE/input_Indique o parentesco de cada Pessoa Segura com o Tomador de Seguro_continuar""))",Firefox 66.0,,2019-04-15 09:31:01,2019-04-15 09:31:02,"1,718s",PASSED
+"setText(findTestObject(""Object Repository/Page_LOGO SADE/input_Cdigo de campanha_beancontratovalesDesconto""), """")",Firefox 66.0,,2019-04-15 09:31:02,2019-04-15 09:31:03,"0,152s",PASSED
+"click(findTestObject(""Object Repository/Page_LOGO SADE/label_Nome completo""))",Firefox 66.0,,2019-04-15 09:31:03,2019-04-15 09:31:03,"0,331s",PASSED
+"setText(findTestObject(""Object Repository/Page_LOGO SADE/input_Cdigo de campanha_beancontratovalesDesconto""), """")",Firefox 66.0,,2019-04-15 09:31:03,2019-04-15 09:31:03,"0,089s",PASSED
+"setText(findTestObject(""Object Repository/Page_LOGO SADE/input__beancontratotomadorSeguronome""), name)",Firefox 66.0,,2019-04-15 09:31:03,2019-04-15 09:31:03,"0,155s",PASSED
+"setText(findTestObject(""Object Repository/Page_LOGO SADE/input__beancontratotomadorSegurotelefonePrincipal""), ""960000000"")",Firefox 66.0,,2019-04-15 09:31:03,2019-04-15 09:31:03,"0,208s",PASSED
+"click(findTestObject(""Object Repository/Page_LOGO SADE/span_Ok""))",Firefox 66.0,,2019-04-15 09:31:03,2019-04-15 09:31:34,"30,956s",FAILED
