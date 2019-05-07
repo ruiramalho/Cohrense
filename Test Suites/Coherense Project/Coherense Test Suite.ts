@@ -23,12 +23,6 @@
       <testCaseId>Test Cases/Logoff Coherense</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>7fa17617-62ea-4f03-9927-c8e13df3c86c</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Logoff Coherense</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
       <guid>0b97b4ec-00ee-4e03-a778-b374599ad32b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
