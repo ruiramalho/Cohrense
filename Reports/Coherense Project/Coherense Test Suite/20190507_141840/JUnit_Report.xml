@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Coherense Test Suite" time="20" tests="3" failures="0" errors="0">
+   <testsuite name="Coherense Test Suite" tests="3" failures="0" errors="0" time="20" timestamp="2019-05-07 14:18:49" hostname="LPT-FA4722$ - LPT-FA4722.europe.corp.altran.com" id="Test Suites/Coherense Project/Coherense Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\rramalho\\git\\Cohrense\\Reports\\Coherense Project\\Coherense Test Suite\\20190507_141840"/>
+         <property name="logFiles" value="C:\\Users\\rramalho\\git\\Cohrense\\Reports\\Coherense Project\\Coherense Test Suite\\20190507_141840\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="LPT-FA4722$ - LPT-FA4722.europe.corp.altran.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="6.1.0.1"/>
+         <property name="browser" value="Chrome 74.0.3729.108"/>
+         <property name="hostAddress" value="172.19.32.1"/>
+         <property name="sessionId" value="e9f5f9f74396e3a73bb4f0432d1f1ce0"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Login Coherense" classname="Test Cases/Login Coherense" status="PASSED">
+         <system-out><![CDATA[2019-05-07 14:18:50 - [TEST_CASE][PASSED] - Test Cases/Login Coherense: Test Cases/Login Coherense
+
+2019-05-07 14:18:51 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-05-07 14:18:51 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-05-07 14:18:51 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-05-07 14:18:56 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-05-07 14:18:56 - [TEST_STEP][PASSED] - navigateToUrl("http://127.0.0.1:8080/login"): Navigate to 'http://127.0.0.1:8080/login' successfully
+
+2019-05-07 14:18:57 - [MESSAGE][PASSED] - Navigate to 'http://127.0.0.1:8080/login' successfully
+
+2019-05-07 14:18:57 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Coherense Repository/Page_CoherenSE Login/input_Username_username"), "Leader"): Text 'Leader' is set on object 'Object Repository/Coherense Repository/Page_CoherenSE Login/input_Username_username'
+
+2019-05-07 14:18:57 - [MESSAGE][PASSED] - Text 'Leader' is set on object 'Object Repository/Coherense Repository/Page_CoherenSE Login/input_Username_username'
+
+2019-05-07 14:18:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Coherense Repository/Page_CoherenSE Login/button_Log in")): Object: 'Object Repository/Coherense Repository/Page_CoherenSE Login/button_Log in' is clicked on
+
+2019-05-07 14:18:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Coherense Repository/Page_CoherenSE Login/button_Log in' is clicked on
+
+2019-05-07 14:18:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Coherense Repository/Page_CoherenSE/span_Help_icons cse-icon-logout")): Object: 'Object Repository/Coherense Repository/Page_CoherenSE/span_Help_icons cse-icon-logout' is clicked on
+
+2019-05-07 14:19:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Coherense Repository/Page_CoherenSE/span_Help_icons cse-icon-logout' is clicked on
+
+2019-05-07 14:19:00 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-05-07 14:19:01 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Logoff Coherense" classname="Test Cases/Logoff Coherense" status="PASSED">
+         <system-out><![CDATA[2019-05-07 14:19:01 - [TEST_CASE][PASSED] - Test Cases/Logoff Coherense: Test Cases/Logoff Coherense
+
+2019-05-07 14:19:02 - [TEST_STEP][PASSED] - openBrowser("http://127.0.0.1:8080/login"): Browser is opened with url: 'http://127.0.0.1:8080/login'
+
+2019-05-07 14:19:02 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-05-07 14:19:05 - [MESSAGE][PASSED] - Browser is opened with url: 'http://127.0.0.1:8080/login'
+
+2019-05-07 14:19:05 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-05-07 14:19:06 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Logoff Coherense" classname="Test Cases/Logoff Coherense" status="PASSED">
+         <system-out><![CDATA[2019-05-07 14:19:06 - [TEST_CASE][PASSED] - Test Cases/Logoff Coherense: Test Cases/Logoff Coherense
+
+2019-05-07 14:19:06 - [TEST_STEP][PASSED] - openBrowser("http://127.0.0.1:8080/login"): Browser is opened with url: 'http://127.0.0.1:8080/login'
+
+2019-05-07 14:19:06 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-05-07 14:19:09 - [MESSAGE][PASSED] - Browser is opened with url: 'http://127.0.0.1:8080/login'
+
+2019-05-07 14:19:09 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-05-07 14:19:09 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-05-07 14:18:49 - [TEST_SUITE][PASSED] - Coherense Test Suite: Test Cases/Logoff Coherense]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

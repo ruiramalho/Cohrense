@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Coherense Test Suite,Chrome 74.0.3729.108,,2019-05-07 14:23:02,2019-05-07 14:23:22,"19,981s",PASSED
+,,,,,,
+Test Cases/Login Coherense,Chrome 74.0.3729.108,Login Coherense,2019-05-07 14:23:03,2019-05-07 14:23:14,"11,128s",PASSED
+"openBrowser("""")",Chrome 74.0.3729.108,,2019-05-07 14:23:03,2019-05-07 14:23:09,"5,480s",PASSED
+"navigateToUrl(""http://127.0.0.1:8080/login"")",Chrome 74.0.3729.108,,2019-05-07 14:23:09,2019-05-07 14:23:09,"0,290s",PASSED
+"setText(findTestObject(""Object Repository/Coherense Repository/Page_CoherenSE Login/input_Username_username""), ""Leader"")",Chrome 74.0.3729.108,,2019-05-07 14:23:09,2019-05-07 14:23:09,"0,273s",PASSED
+"click(findTestObject(""Object Repository/Coherense Repository/Page_CoherenSE Login/button_Log in""))",Chrome 74.0.3729.108,,2019-05-07 14:23:09,2019-05-07 14:23:10,"0,123s",PASSED
+"click(findTestObject(""Object Repository/Coherense Repository/Page_CoherenSE/span_Help_icons cse-icon-logout""))",Chrome 74.0.3729.108,,2019-05-07 14:23:10,2019-05-07 14:23:13,"3,281s",PASSED
+closeBrowser(),Chrome 74.0.3729.108,,2019-05-07 14:23:13,2019-05-07 14:23:14,"0,815s",PASSED
+,,,,,,
+Test Cases/Logoff Coherense,Chrome 74.0.3729.108,Logoff Coherense,2019-05-07 14:23:14,2019-05-07 14:23:18,"4,466s",PASSED
+"openBrowser(""http://127.0.0.1:8080/login"")",Chrome 74.0.3729.108,,2019-05-07 14:23:14,2019-05-07 14:23:17,"3,362s",PASSED
+closeBrowser(),Chrome 74.0.3729.108,,2019-05-07 14:23:17,2019-05-07 14:23:18,"0,660s",PASSED
+,,,,,,
+Test Cases/Logoff Coherense,Chrome 74.0.3729.108,Logoff Coherense,2019-05-07 14:23:18,2019-05-07 14:23:22,"3,862s",PASSED
+"openBrowser(""http://127.0.0.1:8080/login"")",Chrome 74.0.3729.108,,2019-05-07 14:23:18,2019-05-07 14:23:21,"3,160s",PASSED
+closeBrowser(),Chrome 74.0.3729.108,,2019-05-07 14:23:21,2019-05-07 14:23:22,"0,682s",PASSED
