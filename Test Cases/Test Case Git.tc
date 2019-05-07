@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case Git integration</description>
+   <name>Test Case Git</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be4fbd40-4aea-46c8-9dc7-36bbc81091c6</testCaseGuid>
+</TestCaseEntity>
