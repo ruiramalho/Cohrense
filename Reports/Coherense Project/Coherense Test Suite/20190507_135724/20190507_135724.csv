@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Coherense Test Suite,Chrome 74.0.3729.108,,2019-05-07 13:57:33,2019-05-07 13:57:58,"24,808s",PASSED
+,,,,,,
+Test Cases/Login Coherense,Chrome 74.0.3729.108,Login Coherense,2019-05-07 13:57:34,2019-05-07 13:57:46,"11,954s",PASSED
+"openBrowser("""")",Chrome 74.0.3729.108,,2019-05-07 13:57:35,2019-05-07 13:57:41,"6,465s",PASSED
+"navigateToUrl(""http://127.0.0.1:8080/login"")",Chrome 74.0.3729.108,,2019-05-07 13:57:41,2019-05-07 13:57:41,"0,445s",PASSED
+"setText(findTestObject(""Object Repository/Coherense Repository/Page_CoherenSE Login/input_Username_username""), ""Leader"")",Chrome 74.0.3729.108,,2019-05-07 13:57:41,2019-05-07 13:57:42,"0,286s",PASSED
+"click(findTestObject(""Object Repository/Coherense Repository/Page_CoherenSE Login/button_Log in""))",Chrome 74.0.3729.108,,2019-05-07 13:57:42,2019-05-07 13:57:42,"0,141s",PASSED
+"click(findTestObject(""Object Repository/Coherense Repository/Page_CoherenSE/span_Help_icons cse-icon-logout""))",Chrome 74.0.3729.108,,2019-05-07 13:57:42,2019-05-07 13:57:45,"2,834s",PASSED
+closeBrowser(),Chrome 74.0.3729.108,,2019-05-07 13:57:45,2019-05-07 13:57:46,"0,872s",PASSED
+,,,,,,
+Test Cases/Logoff Coherense,Chrome 74.0.3729.108,Logoff Coherense,2019-05-07 13:57:46,2019-05-07 13:57:50,"4,308s",PASSED
+"openBrowser(""http://127.0.0.1:8080/login"")",Chrome 74.0.3729.108,,2019-05-07 13:57:46,2019-05-07 13:57:49,"3,152s",PASSED
+closeBrowser(),Chrome 74.0.3729.108,,2019-05-07 13:57:49,2019-05-07 13:57:50,"0,672s",PASSED
+,,,,,,
+Test Cases/Logoff Coherense,Chrome 74.0.3729.108,Logoff Coherense,2019-05-07 13:57:50,2019-05-07 13:57:54,"4,034s",PASSED
+"openBrowser(""http://127.0.0.1:8080/login"")",Chrome 74.0.3729.108,,2019-05-07 13:57:50,2019-05-07 13:57:53,"3,325s",PASSED
+closeBrowser(),Chrome 74.0.3729.108,,2019-05-07 13:57:53,2019-05-07 13:57:54,"0,658s",PASSED
+,,,,,,
+Test Cases/Logoff Coherense,Chrome 74.0.3729.108,Logoff Coherense,2019-05-07 13:57:54,2019-05-07 13:57:58,"3,905s",PASSED
+"openBrowser(""http://127.0.0.1:8080/login"")",Chrome 74.0.3729.108,,2019-05-07 13:57:54,2019-05-07 13:57:57,"3,137s",PASSED
+closeBrowser(),Chrome 74.0.3729.108,,2019-05-07 13:57:57,2019-05-07 13:57:58,"0,710s",PASSED
